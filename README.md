@@ -7,29 +7,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <link rel="stylesheet" href="style.css">
-
-    ul {
-      margin-top: 8px;
-      padding-left: 20px;
-    }
-
-    li {
-      margin-bottom: 6px;
-    }
-
-    .skills {
-      list-style-type: disc;
-    }
-
-    footer {
-      text-align: center;
-      margin-top: 50px;
-      font-size: 14px;
-      color: #555;
-    }
-  </style>
-</head>
-
 <body>
 
   <header>
