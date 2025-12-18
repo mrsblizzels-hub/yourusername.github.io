@@ -8,49 +8,6 @@
 
 <link rel="stylesheet" href="style.css">
 
-    header {
-      text-align: center;
-      margin-bottom: 40px;
-    }
-
-    header h1 {
-      margin-bottom: 5px;
-      font-size: 36px;
-    }
-
-    header p {
-      margin: 5px 0;
-      font-size: 16px;
-    }
-
-
-    section {
-      margin-bottom: 30px;
-    }
-
-    h2 {
-      border-bottom: 2px solid #000;
-      padding-bottom: 5px;
-      font-size: 22px;
-      margin-bottom: 15px;
-    }
-
-    .entry {
-      margin-bottom: 20px;
-    }
-
-    .entry-header {
-      display: flex;
-      justify-content: space-between;
-      flex-wrap: wrap;
-      font-weight: bold;
-    }
-
-    .location {
-      font-style: italic;
-      font-weight: normal;
-    }
-
     ul {
       margin-top: 8px;
       padding-left: 20px;
